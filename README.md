@@ -12,6 +12,13 @@ Antes de começar, certifique-se de ter os seguintes requisitos instalados em su
 
 ## Instalação
 
+Modo de uso:
+rode o script no seu navegador local: localhost //3000
+Copie o link do video no qual irá ser baixado e cole no input na tela no HTML 
+Aperte o botão!!!
+
+## Instalação
+
 1. Clone este repositório para o seu computador:
    ```bash
    git clone https://github.com/seu-usuario/Youtube-Video-Downloader.git
